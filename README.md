@@ -16,8 +16,8 @@ Langfristig will ich Full-Stack-Entwickler werden. Außerdem interessieren mich 
 
 | Projekt | Was drinsteckt | Live ansehen |
 |---|---|---|
-| [Schere, Stein, Papier](https://github.com/julian-trou/schere-stein-papier) | Kurs-Projekt plus eigene Erweiterungen: Auto Play, mehrere Spieler, Fußball-Punkte, Leaderboard | [Demo](https://julian-trou.github.io/schere-stein-papier/) |
-| [To-do-Liste](https://github.com/julian-trou/todo-liste) | Kurs-Projekt plus eigene Erweiterungen: Speichern, Erledigt-Liste, Zähler | [Demo](https://julian-trou.github.io/todo-liste/) |
+| [Schere, Stein, Papier](https://github.com/Juliantrouch/schere-stein-papier) | Kurs-Projekt plus eigene Erweiterungen: Auto Play, mehrere Spieler, Fußball-Punkte, Leaderboard | [Demo](https://juliantrouch.github.io/schere-stein-papier/) |
+| [To-do-Liste](https://github.com/Juliantrouch/todo-liste) | Kurs-Projekt plus eigene Erweiterungen: Speichern, Erledigt-Liste, Zähler | [Demo](https://juliantrouch.github.io/todo-liste/) |
 
 Als Nächstes kommt ein größeres Projekt: ein Online-Shop-Nachbau aus meinem JavaScript-Kurs.
 
