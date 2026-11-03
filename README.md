@@ -8,9 +8,9 @@ Langfristig will ich Full-Stack-Entwickler werden. Außerdem interessieren mich 
 
 - **HTML** – Grundlagen sitzen
 - **CSS** – Layouts lesen und anpassen
-- **JavaScript** – Einsteiger, ich übe jeden Tag
+- **JavaScript** – Einsteigerkurs von SuperSimpleDev komplett abgeschlossen (18 Lektionen), ich übe jeden Tag
 - **SQL** – einfache Abfragen, erste Funktionen und Trigger
-- Ab Ende Oktober 2026: Kurs mit **Datenbanken, Java und JavaScript** (4–5 Stunden am Tag)
+- Seit Ende Oktober 2026: Kurs mit **Datenbanken, Java und JavaScript** (4–5 Stunden am Tag)
 
 ## Meine Lernprojekte
 
@@ -22,4 +22,4 @@ Langfristig will ich Full-Stack-Entwickler werden. Außerdem interessieren mich 
 
 ## Werkzeuge
 
-VS Code · Git &amp; GitHub · Obsidian
+VS Code · Git & GitHub · Obsidian
